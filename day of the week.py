@@ -1,3 +1,4 @@
+#Name: MUYOMBA TIMOTHY  REG.NO.: 14/U/10289/PS
 #Script shows the day of the week for a date
 #These print statements visually gives user NUMBER needed for month
 print '-' * 12
